@@ -1,6 +1,6 @@
 import Box from "./Box";
 
-const nums = Array(5).fill(0).map((n,i) => i+1)
+const nums = Array(5).fill(0).map((n,i) => i+3)
 
 
 
